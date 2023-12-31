@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator designed using java
+A simple calculator designed using java by Tutorials Field
